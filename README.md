@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sneh Vadher
+# 👋 Hey, I'm Sneh Vadher
 
 I am currently pursuing **PGDM in Big Data Analytics**, with a passion for **data-driven decision making** and **automation**.  
 As part of my academic and professional journey, I’ve worked on projects across **machine learning (ML)**, **data analytics**, **automation**, and **web development**, building a strong foundation in both technical and business domains.
