@@ -41,7 +41,7 @@ Some of the key projects I’ve completed as part of my learning and internships
 ## 📫 Let's Connect
 - [Linkedin](https://www.linkedin.com/in/snehvadher)
 - [GitHub](https://github.com/SNEHVADHER)
-- [Email](snehavdher13@gmail.com)
+- [Email](snehvadher13@gmail.com)
 
 ---
 
